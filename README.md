@@ -7,9 +7,8 @@ A simple C++ program for checking your password strength  :)
 
 ## How to use
 ```bash
-g++ password-checker.cpp -o password-checker
-./password-checker
-
+g++ pass_checker.cpp -o pass_checker
+./pass_checker
 ```
 ## Planned features
 - Adding a command line interface (CLI) with options
